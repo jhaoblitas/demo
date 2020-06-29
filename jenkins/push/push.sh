@@ -4,7 +4,7 @@ echo "########################"
 echo "*** Preparando el push ***"
 echo "########################"
 
-REGISTRY="192.168.126.200:5000"
+REGISTRY="http://192.168.126.200:5000"
 IMAGE="app"
 
 echo "*** Etiquetando la imagen ***"
